@@ -17,7 +17,7 @@
 
 - 🎨 I love sleek interfaces, smooth animations, and thoughtful interaction design.
 - 🧩 I'm into algorithms, tooling, and making complex ideas more visual & accessible.
-- 🔄 I'm always iterating — code, UI, or mindset.
+- 🔄 I'm always iterating- code, UI, or mindset.
 
 ---
 
