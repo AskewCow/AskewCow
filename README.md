@@ -42,8 +42,8 @@ Developer focused on clean interfaces, smooth interactions, and building things 
 ## Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AskewCow&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AskewCow&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AskewCow&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github&v=1" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AskewCow&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&v=1" />
 </p>
 
 ---
