@@ -1,67 +1,57 @@
-<!-- Animated Gradient Top Bar -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+# AskewCow
 
-<!-- Animated Wave + Intro -->
-<h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="32px" style="margin-right: 10px;" alt="wave"/>
-  Hey there, I’m <span style="color:#00b4d8">AskewCow</span>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=4000&pause=99999&color=8B949E&center=false&vCenter=true&width=600&lines=%22Simplicity+is+the+ultimate+sophistication.%22+%E2%80%94+Leonardo+da+Vinci)](https://git.io/typing-svg)
 
-<p align="center">
-  🧠 Developer who thrives on clean UI, smooth functionality, and building things that just <em>feel right</em>.
+---
+
+## About
+
+Developer focused on clean interfaces, smooth interactions, and building things that actually work well. I care about the craft — whether that's getting an animation just right, structuring a codebase properly, or making a complex idea feel simple.
+
+- Drawn to sleek UI and thoughtful interaction design
+- Interested in algorithms, developer tooling, and making things visual
+- Always iterating — on code, on ideas, on approach
+
+---
+
+## Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Backend & Infrastructure**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Cloud](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=icloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AskewCow&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AskewCow&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 </p>
 
 ---
 
-### 🌟 About Me
+## Connect
 
-- 🎨 I love sleek interfaces, smooth animations, and thoughtful interaction design.
-- 🧩 I'm into algorithms, tooling, and making complex ideas more visual & accessible.
-- 🔄 I'm always iterating- code, UI, or mindset.
+Discord — `@askewcow`
 
 ---
 
-### 🧰 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AskewCow&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AskewCow&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
-</div>
-
----
-
-### 🌐 Let's Connect
-
-<p>
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="14px" style="vertical-align:middle;" />
-  <strong>Discord:</strong> @askewcow
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Clean+code.+Clean+UI.+Clean+mind.;Build.+Break.+Polish.+Repeat."/>
-</p>
-
-<!-- Animated Gradient Bottom Bar -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+*Trinity College Dublin · Dublin, Ireland*
