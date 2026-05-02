@@ -48,10 +48,4 @@ Developer focused on clean interfaces, smooth interactions, and building things 
 
 ---
 
-## Connect
-
-Discord — `@askewcow`
-
----
-
 *Trinity College Dublin · Dublin, Ireland*
