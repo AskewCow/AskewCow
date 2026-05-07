@@ -10,7 +10,6 @@ Developer focused on clean interfaces, smooth interactions, and building things 
 
 - Drawn to sleek UI and thoughtful interaction design
 - Interested in algorithms, developer tooling, and making things visual
-- Always iterating — on code, on ideas, on approach
 
 ---
 
